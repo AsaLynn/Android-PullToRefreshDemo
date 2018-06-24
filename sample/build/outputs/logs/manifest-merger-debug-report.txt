@@ -1,0 +1,144 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+MERGED from [:pullToRefreshListFragment] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:pullToRefreshViewPager] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+MERGED from [:library] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:2:1-13:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:3:5-49
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:1-66:12
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:6:5-59:19
+MERGED from [:pullToRefreshListFragment] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshListFragment] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshViewPager] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:pullToRefreshViewPager] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+MERGED from [:library] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:11:5-20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:9:9-41
+	android:hardwareAccelerated
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:7:9-43
+	android:icon
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:8:9-38
+activity#com.handmark.pulltorefresh.samples.LauncherActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:10:9-18:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:12:13-50
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:11:13-45
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:16:27-74
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:19:9-22:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:21:13-41
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:20:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListFragmentActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:23:9-26:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:25:13-50
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:24:13-62
+activity#com.handmark.pulltorefresh.samples.PullToRefreshListInViewPagerActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:27:9-30:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:29:13-54
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:28:13-65
+activity#com.handmark.pulltorefresh.samples.PullToRefreshGridActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:31:9-34:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:33:13-41
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:32:13-54
+activity#com.handmark.pulltorefresh.samples.PullToRefreshExpandableListActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:35:9-38:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:37:13-51
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:36:13-64
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebViewActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:39:9-42:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:41:13-40
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:40:13-57
+activity#com.handmark.pulltorefresh.samples.PullToRefreshScrollViewActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:43:9-46:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:45:13-43
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:44:13-60
+activity#com.handmark.pulltorefresh.samples.PullToRefreshHorizontalScrollViewActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:47:9-50:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:49:13-53
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:48:13-70
+activity#com.handmark.pulltorefresh.samples.PullToRefreshViewPagerActivity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:51:9-54:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:53:13-42
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:52:13-59
+activity#com.handmark.pulltorefresh.samples.PullToRefreshWebView2Activity
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:55:9-58:20
+	android:label
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:57:13-49
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:56:13-58
+uses-permission#android.permission.INTERNET
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:62:5-67
+	android:name
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:62:22-64
+supports-screens
+ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:64:5-51
+	android:anyDensity
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml:64:23-48
+uses-sdk
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+MERGED from [:pullToRefreshListFragment] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshListFragment] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshListFragment\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshViewPager] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:pullToRefreshViewPager] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\pullToRefreshViewPager\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+MERGED from [:library] D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\library\build\intermediates\manifests\full\debug\AndroidManifest.xml:7:5-9:41
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		ADDED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml
+		INJECTED from D:\MyHomeWork\MyGitHubDemos\Android-PullToRefreshDemo\sample\src\main\AndroidManifest.xml

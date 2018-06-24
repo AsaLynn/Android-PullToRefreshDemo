@@ -1,0 +1,4 @@
+#Thu Dec 07 11:10:21 CST 2017
+base.0=D\:\\BaWei\\temp\\pulltorefresh\\Android-PullToRefreshDemo\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+renamed.0=classes.dex
+file.0=D\:\\BaWei\\temp\\pulltorefresh\\Android-PullToRefreshDemo\\sample\\build\\intermediates\\transforms\\dexMerger\\debug\\0\\classes.dex

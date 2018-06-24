@@ -1,0 +1,49 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\MyHomeWork\\MyGitHubDemos\\Android-PullToRefreshDemo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\MyHomeWork\\MyGitHubDemos\\Android-PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\BaWei\\temp\\pulltorefresh\\Android-PullToRefreshDemo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\BaWei\\temp\\pulltorefresh\\Android-PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\BaWei\\temp\\Android-PullToRefreshDemo\\sample\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-fr\\values-fr.xml",
+            "map": [
+                {
+                    "source": "D:\\BaWei\\temp\\Android-PullToRefreshDemo\\library\\build\\intermediates\\bundles\\debug\\res\\values-fr\\values-fr.xml",
+                    "from": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,133,206",
+                        "endColumns": "77,72,83",
+                        "endOffsets": "128,201,285"
+                    }
+                }
+            ]
+        }
+    ]
+}
